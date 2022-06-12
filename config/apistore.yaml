@@ -1,0 +1,7 @@
+debug: true
+log_level: debug
+listen_addr: 127.0.0.1:8080
+timeout: 30
+mongo_url: mongodb://127.0.0.1:27017/xm
+ipapi_key: keyhere
+acl_allowed_countries: ["Cyprus"]
